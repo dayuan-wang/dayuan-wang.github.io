@@ -13,7 +13,7 @@ Email: [dayuan.wang@ufl.edu](mailto:dayuan.wang@ufl.edu)
 
 
 ## Curiosities
-* A minigame to test your marketing intuition. [Click here](https://dayuan-wang.github.io/Market-maker-game/) It was one interview question for SIG (Susquehanna International Group) 2025 Summer Quant Internship.
+* A minigame to test your marketing intuition. [Click here.](https://dayuan-wang.github.io/Market-maker-game/) It was one interview question for SIG (Susquehanna International Group) 2025 Summer Quant Researcher Internship.
 
 
 ## About me
@@ -48,3 +48,4 @@ I design and validate robust, reproducible end-to-end bioinformatics pipelines f
 * Outstanding Undergraduate Student Scholarship Peking University, China (2014 - 2018)
 * Gold Medal, 25th International Biology Olympiad Bali, Indonesia (July 2014)
 
+## Activities

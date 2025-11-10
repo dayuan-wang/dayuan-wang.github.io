@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Your Name - Home Page</title>
+  <title>Dayuan Wang - Home Page</title>
   <style>
     /* This is basic styling to make it look clean */
     body {
@@ -23,52 +23,91 @@
     a {
       color: #0366d6;
     }
+    /* Style for publication list */
+    ul.publications li {
+      margin-bottom: 15px;
+    }
   </style>
 </head>
 
 <body>
 
-  <h1>Dayuan Wang</h1>
+  [cite_start]<h1>Dayuan Wang</h1> [cite: 8]
   <p>
-    Ph.D. Student. <br>
-    Department of [Your Department], University of Florida. <br>
-    Email: [your.email]@ufl.edu <br>
-    [<a href="Your-Google-Scholar-Link">Google Scholar</a>] [<a href="https://github.com/dayuan-wang">GitHub</a>]
+    Ph.D. Student in Biostatistics. <br>
+    [cite_start]University of Florida, Gainesville, FL [cite: 14, 15, 2] <br>
+    [cite_start]Email: <a href="mailto:dayuan.wang@ufl.edu">dayuan.wang@ufl.edu</a> [cite: 3] <br>
+    [cite_start][<a href="https://www.linkedin.com/in/dayuan-wang-bios/">LinkedIn</a>] [cite: 9] | 
+    [cite_start][<a href="https://github.com/dayuan-wang">GitHub</a>] [cite: 9] |
+    [<a href="#">Google Scholar</a>]
   </p>
 
   <h2>About me</h2>
   <p>
-    I am currently a Ph.D. student at the University of Florida...
-    </p>
+    [cite_start]I am a Ph.D. student in Biostatistics at the University of Florida (Aug 2022 - Dec 2026)[cite: 14, 15, 20]. 
+    [cite_start]My research as a Doctorate Research Assistant at the Sepsis and Critical Illness Research Center [cite: 23, 24] 
+    [cite_start]focuses on driving translational research by applying multi-omics data to uncover immune mechanisms in critical illness[cite: 26].
+    I design and validate robust, reproducible end-to-end bioinformatics pipelines for sequencing data (e.g., scRNA-seq, bulk
+ [cite_start]RNA-seq) using R/Python in an HPC environment[cite: 27].
+  </p>
+  <p>
+    [cite_start]Previously, I worked as a Health Data Specialist at the New Jersey Department of Health[cite: 29, 31], where I applied 
+    [cite_start]real-world data analytics and generalized linear modeling (GLMs) to evaluate Hepatitis C burden[cite: 33].
+    [cite_start]I received my M.S. in Biostatistics from Rutgers University [cite: 16] (2018-2020) [cite_start][cite: 21] and my B.S. in Biology 
+    [cite_start]from Peking University [cite: 17, 18] (2014-2018) [cite_start][cite: 22].
+  </p>
 
   <h2>Research Interests</h2>
   <ul>
-    <li>Research Interest 1</li>
-    <li>Research Interest 2</li>
-    <li>Research Interest 3</li>
+    [cite_start]<li><b>Omics & Bioinformatics:</b> scRNA-seq, RNA-seq, Multi-omics integration, Immune profiling, Variant calling, CNV detection, Spatial transcriptomics analysis, Copy number variation (CNV) detection, Oncology [cite: 6, 11]</li>
+    [cite_start]<li><b>Statistical Skills:</b> Machine learning, Deep learning, Survival analysis, Longitudinal analysis, Mixed-effects models, Causal inference, GLM, Sample size calculation, RWE [cite: 5, 10]</li>
+    [cite_start]<li><b>Tools and Languages:</b> R, Python, SAS, SQL, TensorFlow, Linux (HPC environments, Slurm), markdown [cite: 7, 12]</li>
   </ul>
 
   <h2>News</h2>
   <ul>
-    <li>[Date] Some exciting news...</li>
-    <li>[Date] A paper was accepted...</li>
+    <li><b>[Aug 2025]</b> I will be speaking at the Joint Statistical Meetings (JSM) in Nashville, TN. [cite_start]My talk is titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data"[cite: 75, 76, 77].</li>
+    [cite_start]<li><b>[Jun 2025]</b> I presented a poster at the SHOCK Conference in Boston, MA, on "Sc-RNA Seq Identifies Age as Effect Modifier of Lymphocytes' Transcriptomic Changes in Murine Sepsis"[cite: 80, 81].</li>
+    [cite_start]<li><b>[2024-2025]</b> Honored to receive the PhD Fellowship in Artificial Intelligence from the College of Public Health and Health Professions at the University of Florida[cite: 37, 60].</li>
+    [cite_start]<li><b>[Jun 2024]</b> I presented a poster at the SHOCK Conference in Palm Beach, FL, on "Single-cell Transcriptome Profiling Reveals MDSC Heterogeneity in Murine Neonatal Sepsis"[cite: 83, 84, 85].</li>
+    [cite_start]<li><b>[Mar 2024]</b> I presented a poster at ENAR in Baltimore, MD, on "An Integrative Deep Learning Model for Accurate Copy Number Variation Detection with NGS Data"[cite: 86, 87, 88, 89].</li>
   </ul>
 
   <h2>Publications</h2>
-  <ul>
+  <ul class="publications">
     <li>
-      <b>Your Name</b>, Co-author Name. "Title of Your Paper."
-      <i>Conference or Journal Name</i>, 2025.
+      <b>D Wang</b>, C Rodhouse, H Tang, et al. "Single-cell Transcriptomic Analysis Reveals Age- but not Sex-dependent Lymphocyte Immune Responses in Murine Sepsis."
+       (In Preparation). (2025)[cite_start]. [cite: 62, 63]
+    </li>
+     <li>
+      <b>D Wang</b>, F Qin et al. "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data."
+       (In Preparation). (2025)[cite_start]. [cite: 64, 65]
+    </li>
+     <li>
+      JC Rincon, <b>D Wang</b>, VE Polcz, et al. "Innate immune training in the neonatal response to sepsis."
+      [cite_start]<i>Molecular Medicine</i>, 31(1), 159. (2025). [cite: 66, 67]
     </li>
     <li>
-      Author Name, <b>Your Name</b>. "Title of Another Paper."
-      <i>Conference or Journal Name</i>, 2024.
+      C Rodhouse, <b>D Wang</b>, H Tang, et al. "Age-and Sex-Driven Transcriptional and Metabolic Diversity in Myeloid-Derived Suppressor Cells After Mouse Sepsis."
+      <i>bioRxiv</i>, 2025.10.06.680736. (2025)[cite_start]. [cite: 68, 69]
+    </li>
+    <li>
+      JC Rincon, <b>D Wang</b>, VE Polcz, et al. "Single-cell transcriptome profiling reveals myeloid-derived suppressor cell (MDSC) heterogeneity in murine neonatal sepsis."
+      <i>SHOCK</i>, 62(1), 16-17. (2024)[cite_start]. [cite: 70, 71]
+    </li>
+    <li>
+      JA Balch, <b>D Wang</b>, R Wu, et al. "Transcriptomic evidence that critical illness induces an early expansion of multiple myeloid immune suppressive subsets."
+      <i>SHOCK</i>, 62(1), 1-2. (2024)[cite_start]. [cite: 72, 73]
     </li>
   </ul>
 
   <h2>Honors and Awards</h2>
   <ul>
-    <li>Award Name, Year</li>
+    [cite_start]<li>PhD Fellowship in Artificial Intelligence, College of Public Health and Health Professions, University of Florida, FL (2024-2025) [cite: 37, 60]</li>
+    [cite_start]<li>Department Achivement Award, Preliminary Exam Award, Department of Biostatistics, University of Florida, FL (Aug 2023) [cite: 37, 60]</li>
+    [cite_start]<li>Student Research Travel scholarship, Department of Biostatistics, Rutgers Univeristy, NJ (Nov 2019) [cite: 37, 60]</li>
+    [cite_start]<li>Outstanding Undergraduate Student Scholarship, Peking University, China (2014-2018) [cite: 37, 60]</li>
+    [cite_start]<li>Gold Medal, 25th International Biology Olympiad, Bali, Indonesia (Jul 2014) [cite: 37, 44, 60]</li>
   </ul>
 
 </body>

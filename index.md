@@ -9,19 +9,23 @@ Ph.D. Student in Biostatistics.
 University of Florida, Gainesville, FL  
 Email: [dayuan.wang@ufl.edu](mailto:dayuan.wang@ufl.edu)  
 
-[LinkedIn](https://www.linkedin.com/in/dayuan-wang-bios/) | [GitHub](https://github.com/dayuan-wang) | [Google Scholar](#)
+[LinkedIn](https://www.linkedin.com/in/dayuan-wang-bios/) | [GitHub](https://github.com/dayuan-wang) | [Google Scholar](https://scholar.google.com/citations?user=1QoaNEMAAAAJ&hl=en) 
+
+
+## Curiosities
+* A minigame to test your marketing intuition. [Click here](https://dayuan-wang.github.io/Market-maker-game/) It was one interview question for SIG (Susquehanna International Group) 2025 Summer Quant Internship.
+
 
 ## About me
 I am a Ph.D. student in Biostatistics at the University of Florida (Aug 2022 - Dec 2026). 
-My research as a Doctorate Research Assistant at the Sepsis and Critical Illness Research Center 
+I am a Doctorate Research Assistant at the Sepsis and Critical Illness Research Center at University of Florida,
 focuses on driving translational research by applying multi-omics data to uncover immune mechanisms in critical illness.
-I design and validate robust, reproducible end-to-end bioinformatics pipelines for sequencing data (e.g., scRNA-seq, bulk
-RNA-seq) using R/Python in an HPC environment.
+I design and validate robust, reproducible end-to-end bioinformatics pipelines for sequencing data (e.g., scRNA-seq, bulk RNA-seq) using R/Python in an HPC environment.
 
 ## Research Interests
 * **Omics & Bioinformatics:** scRNA-seq, RNA-seq, Multi-omics integration, Immune profiling, Variant calling, CNV detection, Spatial transcriptomics analysis, Copy number variation (CNV) detection, Oncology
 * **Statistical Skills:** Machine learning, Deep learning, Survival analysis, Longitudinal analysis, Mixed-effects models, Causal inference, GLM, Sample size calculation, RWE
-* **Tools and Languages:** R, Python, SAS, SQL, TensorFlow, Linux (HPC environments, Slurm), markdown
+* **Tools and Languages:** R, Python, SAS, SQL, TensorFlow, Linux (HPC environments, Slurm)
 
 ## News
 * **[Aug 2025]** I will be speaking at the Joint Statistical Meetings (JSM) in Nashville, TN. My talk is titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data".
@@ -41,3 +45,6 @@ RNA-seq) using R/Python in an HPC environment.
 * PhD Fellowship in Artificial Intelligence, University of Florida, FL (2024-2025)
 * Department Achivement Award, Preliminary Exam Award, University of Florida, FL (Aug 2023)
 * Student Research Travel scholarship, Rutgers Univeristy, NJ (Nov 2019)
+* Outstanding Undergraduate Student Scholarship Peking University, China (2014 - 2018)
+* Gold Medal, 25th International Biology Olympiad Bali, Indonesia (July 2014)
+

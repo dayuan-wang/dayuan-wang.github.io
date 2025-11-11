@@ -13,7 +13,7 @@ Email: [dayuan.wang@ufl.edu](mailto:dayuan.wang@ufl.edu)
 
 
 ## Curiosities
-* A minigame to test your marketing intuition. [Click here.](https://dayuan-wang.github.io/Market-maker-game/) It was one interview question for SIG (Susquehanna International Group) 2025 Summer Quant Researcher Internship.
+* A minigame to test your marketing intuition. [Click here.](https://dayuan-wang.github.io/Market-maker-game/)
 
 
 ## About me

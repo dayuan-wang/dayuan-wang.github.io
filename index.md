@@ -3,6 +3,9 @@
 # It tells Jekyll to use the default template from the theme
 layout: default 
 ---
+<img src="IMG_5549.JPG" 
+     alt="Dayuan Wang" 
+     style="float: right; width: 220px; border-radius: 10px; margin: 0px 0px 15px 20px;">
 
 # Dayuan Wang
 Ph.D. Student in Biostatistics.  

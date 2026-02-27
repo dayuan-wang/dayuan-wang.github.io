@@ -14,6 +14,18 @@ Email: [dayuan.wang@ufl.edu](mailto:dayuan.wang@ufl.edu)
 
 [LinkedIn](https://www.linkedin.com/in/dayuan-wang-bios/) | [GitHub](https://github.com/dayuan-wang) | [Google Scholar](https://scholar.google.com/citations?user=1QoaNEMAAAAJ&hl=en) 
 
+## Writing
+I share short research notes, technical posts, and project updates here:
+[Browse all articles (tree view)](/articles/)
+
+### Latest posts
+{% if site.posts.size > 0 %}
+{% for post in site.posts limit:3 %}
+* **{{ post.date | date: "%b %d, %Y" }}** - [{{ post.title }}]({{ post.url }})
+{% endfor %}
+{% else %}
+* No articles yet. First post coming soon.
+{% endif %}
 
 ## Curiosities
 * A minigame to test your marketing intuition. [Click here.](https://dayuan-wang.github.io/Market-maker-game/)

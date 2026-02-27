@@ -1,0 +1,112 @@
+:root {
+  --bg: #fbfaf7;
+  --text: #1f2933;
+  --muted: #52606d;
+  --line: #d9e2ec;
+  --accent: #0f6b5f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.container {
+  width: min(900px, 92%);
+  margin: 0 auto;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--line);
+  background: #ffffffd9;
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(4px);
+}
+
+.site-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.site-title {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+nav a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+nav a[aria-current="page"] {
+  font-weight: 700;
+}
+
+main {
+  padding: 2rem 0 3rem;
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 1rem;
+  background: #fff;
+}
+
+.section-intro {
+  color: var(--muted);
+  margin-top: -0.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.link-list {
+  padding-left: 1.2rem;
+}
+
+.link-list li {
+  margin-bottom: 0.5rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  padding: 1.5rem 0 2rem;
+  font-size: 0.95rem;
+}

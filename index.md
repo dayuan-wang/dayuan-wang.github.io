@@ -43,7 +43,8 @@ I design and validate robust, reproducible end-to-end bioinformatics pipelines f
 * **Tools and Languages:** R, Python, SAS, SQL, TensorFlow, Linux (HPC environments, Slurm)
 
 ## News
-* **[Aug 2025]** I will be speaking at the Joint Statistical Meetings (JSM) in Nashville, TN. My talk is titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data".
+* **[Sep 2025]** I presented at the [Spatial Transcriptomics for Us (ST4US) Virtual Journal Club](https://cancer.ufl.edu/newsletter/spatial-transcriptomics-for-us-9-5/) hosted by the UF Health Cancer Center's Biostatistics and Computational Biology Shared Resource. My presentation was titled: "Spatial RNA and DNA Sequencing with Slide-seq: Insights into Copy Number Alterations Detection and Cancer."
+* **[Aug 2025]** I presented at the Joint Statistical Meetings (JSM) in Nashville, TN. My talk was titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data".
 * **[Jun 2025]** I presented a poster at the SHOCK Conference in Boston, MA, on "Sc-RNA Seq Identifies Age as Effect Modifier of Lymphocytes' Transcriptomic Changes in Murine Sepsis".
 
 ## Publications
@@ -53,8 +54,8 @@ I design and validate robust, reproducible end-to-end bioinformatics pipelines f
     (In Preparation). (2025).
 * JC Rincon, **D Wang**, VE Polcz, et al. "Innate immune training in the neonatal response to sepsis."
     *Molecular Medicine*, 31(1), 159. (2025).
-* C Rodhouse, **D Wang**, H Tang, et al. "Age-and Sex-Driven Transcriptional and Metabolic Diversity in Myeloid-Derived Suppressor Cells After Mouse Sepsis."
-    *bioRxiv*, 2025.10.06.680736. (2025).
+* C Rodhouse, **D Wang**, H Tang, et al. "[Age- and Sex-Driven Transcriptional and Metabolic Diversity in Myeloid-Derived Suppressor Cells After Mouse Sepsis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1QoaNEMAAAAJ&citation_for_view=1QoaNEMAAAAJ:9yKSN-GCB0IC)."
+    *bioRxiv*. (2025).
 
 ## Honors and Awards
 * PhD Fellowship in Artificial Intelligence, University of Florida, FL (2024-2025)

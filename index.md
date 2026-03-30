@@ -2,6 +2,7 @@
 # This is "front matter"
 # It tells Jekyll to use the default template from the theme
 layout: default 
+title: Home
 ---
 <img src="assets/images/profile/IMG_5549.JPG" 
      alt="Dayuan Wang" 
@@ -14,8 +15,7 @@ Email: [dayuan.wang@ufl.edu](mailto:dayuan.wang@ufl.edu)
 
 [LinkedIn](https://www.linkedin.com/in/dayuan-wang-bios/) | [GitHub](https://github.com/dayuan-wang) | [Google Scholar](https://scholar.google.com/citations?user=1QoaNEMAAAAJ&hl=en) 
 
-## Curiosities
-* A minigame to test your marketing intuition. [Click here.](https://dayuan-wang.github.io/Market-maker-game/)
+[`Home`](/index) | [`Publications`](/publication) | [`Other`](/other)
 
 
 ## About me
@@ -35,40 +35,9 @@ I design and validate robust, reproducible end-to-end bioinformatics pipelines f
 * **[Aug 2025]** I presented at the Joint Statistical Meetings (JSM) in Nashville, TN. My talk was titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data".
 * **[Jun 2025]** I presented a poster at the SHOCK Conference in Boston, MA, on "Sc-RNA Seq Identifies Age as Effect Modifier of Lymphocytes' Transcriptomic Changes in Murine Sepsis".
 
-## Publications
-* **D Wang**, F Qin et al. "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data."
-    (In Preparation). (2025).
-* SF Fan, L Xiong, **D Wang**, G Cai, R Bai. "[BVSIMC: Bayesian Variable Selection-Guided Inductive Matrix Completion for Improved and Interpretable Drug Discovery](https://arxiv.org/abs/2603.18957)."
-    *arXiv*, arXiv:2603.18957. (2026).
-* JC Rincon, **D Wang**, VE Polcz, et al. "[Innate immune training in the neonatal response to sepsis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1QoaNEMAAAAJ&citation_for_view=1QoaNEMAAAAJ:d1gkVwhDpl0C)."
-    *Molecular Medicine*, 31(1), 159. (2025).
-* C Rodhouse, **D Wang**, H Tang, et al. "[Age- and Sex-Driven Transcriptional and Metabolic Diversity in Myeloid-Derived Suppressor Cells After Mouse Sepsis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1QoaNEMAAAAJ&citation_for_view=1QoaNEMAAAAJ:9yKSN-GCB0IC)."
-    *bioRxiv*. (2025).
-
 ## Honors and Awards
 * PhD Fellowship in Artificial Intelligence, University of Florida, FL (2024-2025)
 * Department Achivement Award, Preliminary Exam Award, University of Florida, FL (Aug 2023)
 * Student Research Travel scholarship, Rutgers Univeristy, NJ (Nov 2019)
 * Outstanding Undergraduate Student Scholarship Peking University, China (2014 - 2018)
 * Gold Medal, 25th International Biology Olympiad ([IBO](https://www.ibo-info.org/en/contest/past-ibos.html)), Bali, Indonesia (July 2014)
-
-## Activities
-### Races I Ran
-* [Cooper River Bridge Run 2022](https://results2.xacte.com/#/e/2429/searchable/11454) - 54:25
-* [Atlanta Journal-Constitution Peachtree Road Race 10K 2022](https://www.athlinks.com/event/115192/results/Event/1016777/Course/2241401/Bib/9687) - 54:44
-* [The Mega Cupcake Marathon at Hawthorne Half Marathon 2024](https://runsignup.com/Race/Results/82263/IndividualResult/HPSd?resultSetId=512775#U91579045) - 2:05:09
-* [Tom Walker Half Marathon 2025](https://runsignup.com/Race/Results/115494/IndividualResult/TMCq?resultSetId=605096#U91579045) - 2:01:13
-* [FTC Archer Braid Trail 10K 2026](https://runsignup.com/Race/FL/Archer/ArcherBraidTrail5k10k) - 55:59
-
-## Writing
-I share short research notes, technical posts, and project updates here:
-[Browse all articles (tree view)](/articles/)
-
-### Latest posts
-{% if site.posts.size > 0 %}
-{% for post in site.posts limit:3 %}
-* **{{ post.date | date: "%b %d, %Y" }}** - [{{ post.title }}]({{ post.url }})
-{% endfor %}
-{% else %}
-* No articles yet. First post coming soon.
-{% endif %}

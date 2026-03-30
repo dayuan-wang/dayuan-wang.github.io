@@ -14,19 +14,6 @@ Email: [dayuan.wang@ufl.edu](mailto:dayuan.wang@ufl.edu)
 
 [LinkedIn](https://www.linkedin.com/in/dayuan-wang-bios/) | [GitHub](https://github.com/dayuan-wang) | [Google Scholar](https://scholar.google.com/citations?user=1QoaNEMAAAAJ&hl=en) 
 
-## Writing
-I share short research notes, technical posts, and project updates here:
-[Browse all articles (tree view)](/articles/)
-
-### Latest posts
-{% if site.posts.size > 0 %}
-{% for post in site.posts limit:3 %}
-* **{{ post.date | date: "%b %d, %Y" }}** - [{{ post.title }}]({{ post.url }})
-{% endfor %}
-{% else %}
-* No articles yet. First post coming soon.
-{% endif %}
-
 ## Curiosities
 * A minigame to test your marketing intuition. [Click here.](https://dayuan-wang.github.io/Market-maker-game/)
 
@@ -43,7 +30,7 @@ I design and validate robust, reproducible end-to-end bioinformatics pipelines f
 * **Tools and Languages:** R, Python, SAS, SQL, TensorFlow, Linux (HPC environments, Slurm)
 
 ## News
-* **[Feb 2026]** I successfully passed my Ph.D. proposal.
+* **[Feb 2026]** I successfully passed my Ph.D. proposal. 🎉
 * **[Sep 2025]** I presented at the [Spatial Transcriptomics for Us (ST4US) Virtual Journal Club](https://cancer.ufl.edu/newsletter/spatial-transcriptomics-for-us-9-5/) hosted by the UF Health Cancer Center's Biostatistics and Computational Biology Shared Resource. My presentation was titled: "Spatial RNA and DNA Sequencing with Slide-seq: Insights into Copy Number Alterations Detection and Cancer."
 * **[Aug 2025]** I presented at the Joint Statistical Meetings (JSM) in Nashville, TN. My talk was titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data".
 * **[Jun 2025]** I presented a poster at the SHOCK Conference in Boston, MA, on "Sc-RNA Seq Identifies Age as Effect Modifier of Lymphocytes' Transcriptomic Changes in Murine Sepsis".
@@ -63,6 +50,25 @@ I design and validate robust, reproducible end-to-end bioinformatics pipelines f
 * Department Achivement Award, Preliminary Exam Award, University of Florida, FL (Aug 2023)
 * Student Research Travel scholarship, Rutgers Univeristy, NJ (Nov 2019)
 * Outstanding Undergraduate Student Scholarship Peking University, China (2014 - 2018)
-* [Gold Medal, 25th International Biology Olympiad, Bali, Indonesia (July 2014)](https://www.ibo-info.org/en/contest/past-ibos.html)
+* Gold Medal, 25th International Biology Olympiad ([IBO](https://www.ibo-info.org/en/contest/past-ibos.html)), Bali, Indonesia (July 2014)
 
 ## Activities
+### Races I Ran
+* [Cooper River Bridge Run 2022](https://results2.xacte.com/#/e/2429/searchable/11454) - 54:25
+* [Atlanta Journal-Constitution Peachtree Road Race 10K 2022](https://www.athlinks.com/event/115192/results/Event/1016777/Course/2241401/Bib/9687) - 54:44
+* [The Mega Cupcake Marathon at Hawthorne Half Marathon 2024](https://runsignup.com/Race/Results/82263/IndividualResult/HPSd?resultSetId=512775#U91579045) - 2:05:09
+* [Tom Walker Half Marathon 2025](https://runsignup.com/Race/Results/115494/IndividualResult/TMCq?resultSetId=605096#U91579045) - 2:01:13
+* [FTC Archer Braid Trail 10K 2026](https://runsignup.com/Race/FL/Archer/ArcherBraidTrail5k10k) - 55:59
+
+## Writing
+I share short research notes, technical posts, and project updates here:
+[Browse all articles (tree view)](/articles/)
+
+### Latest posts
+{% if site.posts.size > 0 %}
+{% for post in site.posts limit:3 %}
+* **{{ post.date | date: "%b %d, %Y" }}** - [{{ post.title }}]({{ post.url }})
+{% endfor %}
+{% else %}
+* No articles yet. First post coming soon.
+{% endif %}

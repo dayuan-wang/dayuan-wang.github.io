@@ -3,11 +3,12 @@
 # It tells Jekyll to use the default template from the theme
 layout: default 
 title: Home
+permalink: /
 ---
 {% include site-header.html %}
 
 
-## About me
+## About Me
 I am a Ph.D. candidate in Biostatistics at the University of Florida (Aug 2022 - Dec 2026).
 My research focuses on statistical methodology and deep learning for genetics, with an emphasis on developing robust, interpretable approaches for high-dimensional sequencing and multi-omics data.
 I am also a Doctorate Research Assistant at the Sepsis and Critical Illness Research Center at the University of Florida, where I build reproducible bioinformatics pipelines and analytical workflows to support translational research in critical illness.
@@ -25,7 +26,7 @@ I am also a Doctorate Research Assistant at the Sepsis and Critical Illness Rese
 
 ## Honors and Awards
 * PhD Fellowship in Artificial Intelligence, University of Florida, FL (2024-2025)
-* Department Achivement Award, Preliminary Exam Award, University of Florida, FL (Aug 2023)
-* Student Research Travel scholarship, Rutgers Univeristy, NJ (Nov 2019)
+* Department Achievement Award, Preliminary Exam Award, University of Florida, FL (Aug 2023)
+* Student Research Travel Scholarship, Rutgers University, NJ (Nov 2019)
 * Outstanding Undergraduate Student Scholarship Peking University, China (2014 - 2018)
 * Gold Medal, 25th International Biology Olympiad ([IBO](https://www.ibo-info.org/en/contest/past-ibos.html)), Bali, Indonesia (July 2014)

@@ -6,7 +6,7 @@ permalink: /publication
 
 {% include site-header.html %}
 
-## Publications
+## Selected Publications
 
 * **D Wang**, F Qin et al. "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data."
     (In Preparation). (2026).

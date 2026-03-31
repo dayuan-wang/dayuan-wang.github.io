@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Other
-permalink: /other
+title: Beyond Research
+permalink: /beyond-research
 ---
 
 {% include site-header.html %}

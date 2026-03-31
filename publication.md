@@ -4,9 +4,9 @@ title: Publications
 permalink: /publication
 ---
 
-# Publications
+{% include site-header.html %}
 
-[`Home`](/index) | [`Publications`](/publication) | [`Other`](/other)
+## Publications
 
 * **D Wang**, F Qin et al. "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data."
     (In Preparation). (2025).

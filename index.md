@@ -4,18 +4,7 @@
 layout: default 
 title: Home
 ---
-<img src="assets/images/profile/IMG_5549.JPG" 
-     alt="Dayuan Wang" 
-     style="float: right; width: 220px; border-radius: 10px; margin: 0px 0px 15px 20px;">
-
-# Dayuan Wang
-Ph.D. Student in Biostatistics.  
-University of Florida, Gainesville, FL  
-Email: [dayuan.wang@ufl.edu](mailto:dayuan.wang@ufl.edu)  
-
-[LinkedIn](https://www.linkedin.com/in/dayuan-wang-bios/) | [GitHub](https://github.com/dayuan-wang) | [Google Scholar](https://scholar.google.com/citations?user=1QoaNEMAAAAJ&hl=en) 
-
-[`Home`](/index) | [`Publications`](/publication) | [`Other`](/other)
+{% include site-header.html %}
 
 
 ## About me

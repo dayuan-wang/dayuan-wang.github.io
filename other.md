@@ -4,9 +4,7 @@ title: Other
 permalink: /other
 ---
 
-# Other
-
-[`Home`](/index) | [`Publications`](/publication) | [`Other`](/other)
+{% include site-header.html %}
 
 ## Activities
 ### Running

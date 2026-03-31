@@ -8,14 +8,13 @@ title: Home
 
 
 ## About me
-I am a Ph.D. student in Biostatistics at the University of Florida (Aug 2022 - Dec 2026). 
-I am a Doctorate Research Assistant at the Sepsis and Critical Illness Research Center at University of Florida,
-focuses on driving translational research by applying multi-omics data to uncover immune mechanisms in critical illness.
-I design and validate robust, reproducible end-to-end bioinformatics pipelines for sequencing data (e.g., scRNA-seq, bulk RNA-seq) using R/Python in an HPC environment.
+I am a Ph.D. candidate in Biostatistics at the University of Florida (Aug 2022 - Dec 2026).
+My research focuses on statistical methodology and deep learning for genetics, with an emphasis on developing robust, interpretable approaches for high-dimensional sequencing and multi-omics data.
+I am also a Doctorate Research Assistant at the Sepsis and Critical Illness Research Center at the University of Florida, where I build reproducible bioinformatics pipelines and analytical workflows to support translational research in critical illness.
 
 ## Research Interests
-* **Omics & Bioinformatics:** scRNA-seq, RNA-seq, Multi-omics integration, Immune profiling, Variant calling, CNV detection, Spatial transcriptomics analysis, Copy number variation (CNV) detection, Oncology
 * **Statistical Skills:** Machine learning, Deep learning, Survival analysis, Longitudinal analysis, Mixed-effects models, Causal inference, GLM, Sample size calculation, RWE
+* **Omics & Bioinformatics:** scRNA-seq, RNA-seq, Multi-omics integration, Immune profiling, Variant calling, CNV detection, Spatial transcriptomics analysis, Copy number variation (CNV) detection, Oncology
 * **Tools and Languages:** R, Python, SAS, SQL, TensorFlow, Linux (HPC environments, Slurm)
 
 ## News

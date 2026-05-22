@@ -199,6 +199,35 @@
     color: #666;
   }
 
+  .resume-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 0 0 18px;
+  }
+
+  .download-link {
+    display: inline-block;
+    padding: 8px 12px;
+    border: 1px solid #d8d8d8;
+    color: #222;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .download-link:hover,
+  .download-link:focus {
+    border-color: #2468a2;
+    color: #2468a2;
+  }
+
+  .resume-viewer {
+    width: 100%;
+    height: min(78vh, 980px);
+    min-height: 640px;
+    border: 1px solid #eeeeee;
+  }
+
   .site-footer {
     margin-top: 56px;
     padding-top: 20px;
@@ -247,6 +276,11 @@
 
     .detail-list dd {
       margin-bottom: 12px;
+    }
+
+    .resume-viewer {
+      height: 70vh;
+      min-height: 460px;
     }
   }
 </style>

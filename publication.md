@@ -8,7 +8,9 @@ permalink: /publication
 
 ## Selected Publications
 
-* **D Wang**, F Qin et al. "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data."
+* **D Wang**, F Qin, W Bao, R Bacher, D Chung, Q Lu, PA Efron, G Cai, F Xiao. "[CN-RNN: a Deep Learning Framework for Copy Number Variation Detection with Exome Sequencing Data](https://www.biorxiv.org/content/10.64898/2026.05.13.724920v1.abstract)."
+    *bioRxiv*. doi: 10.64898/2026.05.13.724920. (2026).
+* **D Wang**, C Rodhouse, H Tang, et al. "Age but not sex modifies lymphoid immune responses in murine sepsis."
     (In Preparation). (2026).
 * S Fan, L Xiong, **D Wang**, G Cai, R Bai. "[BVSIMC: Bayesian Variable Selection-Guided Inductive Matrix Completion for Improved and Interpretable Drug Discovery](https://arxiv.org/abs/2603.18957)."
     *arXiv*, arXiv:2603.18957. (2026).

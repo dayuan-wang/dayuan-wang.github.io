@@ -19,16 +19,28 @@ I am also a Doctorate Research Assistant at the Sepsis and Critical Illness Rese
 * **Health Data Specialist**, New Jersey Department of Health, Trenton, NJ (2019 - 2020). I analyzed real-world public health data using GLMs, risk prediction, geospatial visualization, and surveillance reporting for Hepatitis C, HIV, and COVID-19 response.
 
 ## Research Interests
-* **Statistical Skills:** Machine learning, Deep learning, Survival analysis, Longitudinal analysis, Mixed-effects models, Causal inference, GLM, Sample size calculation, RWE
-* **Omics & Bioinformatics:** scRNA-seq, RNA-seq, Multi-omics integration, Immune profiling, Variant calling, CNV detection, Spatial transcriptomics analysis, Copy number variation (CNV) detection, Oncology
-* **Tools and Languages:** R, Python, SAS, SQL, TensorFlow, Linux (HPC environments, Slurm)
+<dl class="detail-list">
+  <dt>Statistical Skills</dt>
+  <dd>Machine learning, deep learning, survival analysis, longitudinal analysis, mixed-effects models, causal inference, GLM, sample size calculation, and RWE.</dd>
+  <dt>Omics &amp; Bioinformatics</dt>
+  <dd>scRNA-seq, RNA-seq, multi-omics integration, immune profiling, variant calling, CNV detection, spatial transcriptomics analysis, and oncology.</dd>
+  <dt>Tools &amp; Languages</dt>
+  <dd>R, Python, SAS, SQL, TensorFlow, Linux, HPC environments, and Slurm.</dd>
+</dl>
 
 ## News
-* **[Apr 2026]** I accepted an incoming Summer 2026 Oncology Translational Bioinformatics Internship at Bristol Myers Squibb in Cambridge, MA, where I will work on AI-powered multi-modal biomarker discovery for oncology treatment response.
-* **[Feb 2026]** I successfully passed my Ph.D. proposal. 🎉
-* **[Sep 2025]** I presented at the [Spatial Transcriptomics for Us (ST4US) Virtual Journal Club](https://cancer.ufl.edu/newsletter/spatial-transcriptomics-for-us-9-5/) hosted by the UF Health Cancer Center's Biostatistics and Computational Biology Shared Resource. My presentation was titled: "Spatial RNA and DNA Sequencing with Slide-seq: Insights into Copy Number Alterations Detection and Cancer."
-* **[Aug 2025]** I presented at the Joint Statistical Meetings (JSM) in Nashville, TN. My talk was titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data".
-* **[Jun 2025]** I presented a poster at the SHOCK Conference in Boston, MA, on "Sc-RNA Seq Identifies Age as Effect Modifier of Lymphocytes' Transcriptomic Changes in Murine Sepsis".
+<dl class="detail-list">
+  <dt>Apr 2026</dt>
+  <dd>I accepted an incoming Summer 2026 Oncology Translational Bioinformatics Internship at Bristol Myers Squibb in Cambridge, MA, where I will work on AI-powered multi-modal biomarker discovery for oncology treatment response.</dd>
+  <dt>Feb 2026</dt>
+  <dd>I successfully passed my Ph.D. proposal. 🎉</dd>
+  <dt>Sep 2025</dt>
+  <dd>I presented at the <a href="https://cancer.ufl.edu/newsletter/spatial-transcriptomics-for-us-9-5/">Spatial Transcriptomics for Us (ST4US) Virtual Journal Club</a> hosted by the UF Health Cancer Center's Biostatistics and Computational Biology Shared Resource. My presentation was titled: "Spatial RNA and DNA Sequencing with Slide-seq: Insights into Copy Number Alterations Detection and Cancer."</dd>
+  <dt>Aug 2025</dt>
+  <dd>I presented at the Joint Statistical Meetings (JSM) in Nashville, TN. My talk was titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data".</dd>
+  <dt>Jun 2025</dt>
+  <dd>I presented a poster at the SHOCK Conference in Boston, MA, on "Sc-RNA Seq Identifies Age as Effect Modifier of Lymphocytes' Transcriptomic Changes in Murine Sepsis".</dd>
+</dl>
 
 ## Honors and Awards
 * PhD Fellowship in Artificial Intelligence, University of Florida, FL (2024-2025)

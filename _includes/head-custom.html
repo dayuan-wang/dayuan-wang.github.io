@@ -98,6 +98,25 @@
     color: #fff;
   }
 
+  .detail-list {
+    display: grid;
+    grid-template-columns: minmax(120px, max-content) minmax(0, 1fr);
+    column-gap: 36px;
+    row-gap: 14px;
+    margin: 0 0 24px;
+  }
+
+  .detail-list dt {
+    margin: 0;
+    color: #333;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .detail-list dd {
+    margin: 0;
+  }
+
   @media (max-width: 720px) {
     .wrapper {
       width: min(100%, calc(100% - 24px));
@@ -119,6 +138,15 @@
 
     .site-nav {
       grid-template-columns: 1fr;
+    }
+
+    .detail-list {
+      grid-template-columns: 1fr;
+      row-gap: 4px;
+    }
+
+    .detail-list dd {
+      margin-bottom: 12px;
     }
   }
 </style>

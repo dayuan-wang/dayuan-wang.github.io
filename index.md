@@ -30,15 +30,15 @@ I am also a Doctorate Research Assistant at the Sepsis and Critical Illness Rese
 
 ## News
 <dl class="detail-list">
-  <dt>Apr 2026</dt>
+  <dt>04/2026</dt>
   <dd>I accepted an incoming Summer 2026 Oncology Translational Bioinformatics Internship at Bristol Myers Squibb in Cambridge, MA, where I will work on AI-powered multi-modal biomarker discovery for oncology treatment response.</dd>
-  <dt>Feb 2026</dt>
+  <dt>02/2026</dt>
   <dd>I successfully passed my Ph.D. proposal. 🎉</dd>
-  <dt>Sep 2025</dt>
+  <dt>09/2025</dt>
   <dd>I presented at the <a href="https://cancer.ufl.edu/newsletter/spatial-transcriptomics-for-us-9-5/">Spatial Transcriptomics for Us (ST4US) Virtual Journal Club</a> hosted by the UF Health Cancer Center's Biostatistics and Computational Biology Shared Resource. My presentation was titled: "Spatial RNA and DNA Sequencing with Slide-seq: Insights into Copy Number Alterations Detection and Cancer."</dd>
-  <dt>Aug 2025</dt>
+  <dt>08/2025</dt>
   <dd>I presented at the Joint Statistical Meetings (JSM) in Nashville, TN. My talk was titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data".</dd>
-  <dt>Jun 2025</dt>
+  <dt>06/2025</dt>
   <dd>I presented a poster at the SHOCK Conference in Boston, MA, on "Sc-RNA Seq Identifies Age as Effect Modifier of Lymphocytes' Transcriptomic Changes in Murine Sepsis".</dd>
 </dl>
 
@@ -46,12 +46,14 @@ I am also a Doctorate Research Assistant at the Sepsis and Critical Illness Rese
 <dl class="detail-list">
   <dt>2024-2025</dt>
   <dd>PhD Fellowship in Artificial Intelligence, University of Florida, FL.</dd>
-  <dt>Aug 2023</dt>
+  <dt>08/2023</dt>
   <dd>Department Achievement Award and Preliminary Exam Award, University of Florida, FL.</dd>
-  <dt>Nov 2019</dt>
+  <dt>11/2019</dt>
   <dd>Student Research Travel Scholarship, Rutgers University, NJ.</dd>
   <dt>2014-2018</dt>
   <dd>Outstanding Undergraduate Student Scholarship, Peking University, China.</dd>
-  <dt>Jul 2014</dt>
+  <dt>07/2014</dt>
   <dd>Gold Medal, 25th International Biology Olympiad (<a href="https://www.ibo-info.org/en/contest/past-ibos.html">IBO</a>), Bali, Indonesia.</dd>
 </dl>
+
+{% include site-footer.html %}

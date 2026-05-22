@@ -20,3 +20,5 @@ permalink: /publication
   <dt>2025</dt>
   <dd>C Rodhouse, <strong>D Wang</strong>, H Tang, et al. <a class="pub-title" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=1QoaNEMAAAAJ&amp;citation_for_view=1QoaNEMAAAAJ:9yKSN-GCB0IC">Age- and Sex-Driven Transcriptional and Metabolic Diversity in Myeloid-Derived Suppressor Cells After Mouse Sepsis</a>. <span class="pub-meta"><em>bioRxiv</em>.</span></dd>
 </dl>
+
+{% include site-footer.html %}

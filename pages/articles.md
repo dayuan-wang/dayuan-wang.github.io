@@ -24,3 +24,5 @@ This page is organized as a tree:
 {% else %}
 No posts yet.
 {% endif %}
+
+{% include site-footer.html %}

@@ -39,6 +39,13 @@
     border-top: 2px solid #111111;
   }
 
+  h3 {
+    margin: 28px 0 12px;
+    color: #333;
+    font-size: 1.12rem;
+    font-weight: 800;
+  }
+
   p,
   ul {
     margin-bottom: 18px;
@@ -96,6 +103,9 @@
   }
 
   .site-profile__links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
     color: #222;
     font-weight: 700;
     text-decoration: none;
@@ -106,6 +116,12 @@
   .site-profile__links a:focus {
     color: #2468a2;
     border-bottom-color: #2468a2;
+  }
+
+  .social-icon {
+    width: 16px;
+    height: 16px;
+    flex: 0 0 auto;
   }
 
   .site-profile__image-wrap {
@@ -181,6 +197,18 @@
     display: block;
     margin-top: 4px;
     color: #666;
+  }
+
+  .site-footer {
+    margin-top: 56px;
+    padding-top: 20px;
+    border-top: 1px solid #eeeeee;
+    color: #777;
+    font-size: 0.9rem;
+  }
+
+  .site-footer p {
+    margin: 0;
   }
 
   @media (max-width: 720px) {

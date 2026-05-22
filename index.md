@@ -43,8 +43,15 @@ I am also a Doctorate Research Assistant at the Sepsis and Critical Illness Rese
 </dl>
 
 ## Honors and Awards
-* PhD Fellowship in Artificial Intelligence, University of Florida, FL (2024-2025)
-* Department Achievement Award, Preliminary Exam Award, University of Florida, FL (Aug 2023)
-* Student Research Travel Scholarship, Rutgers University, NJ (Nov 2019)
-* Outstanding Undergraduate Student Scholarship Peking University, China (2014 - 2018)
-* Gold Medal, 25th International Biology Olympiad ([IBO](https://www.ibo-info.org/en/contest/past-ibos.html)), Bali, Indonesia (July 2014)
+<dl class="detail-list">
+  <dt>2024-2025</dt>
+  <dd>PhD Fellowship in Artificial Intelligence, University of Florida, FL.</dd>
+  <dt>Aug 2023</dt>
+  <dd>Department Achievement Award and Preliminary Exam Award, University of Florida, FL.</dd>
+  <dt>Nov 2019</dt>
+  <dd>Student Research Travel Scholarship, Rutgers University, NJ.</dd>
+  <dt>2014-2018</dt>
+  <dd>Outstanding Undergraduate Student Scholarship, Peking University, China.</dd>
+  <dt>Jul 2014</dt>
+  <dd>Gold Medal, 25th International Biology Olympiad (<a href="https://www.ibo-info.org/en/contest/past-ibos.html">IBO</a>), Bali, Indonesia.</dd>
+</dl>

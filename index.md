@@ -13,12 +13,18 @@ I am a Ph.D. candidate in Biostatistics at the University of Florida (Aug 2022 -
 My research focuses on statistical methodology and deep learning for genetics, with an emphasis on developing robust, interpretable approaches for high-dimensional sequencing and multi-omics data.
 I am also a Doctorate Research Assistant at the Sepsis and Critical Illness Research Center at the University of Florida, where I build reproducible bioinformatics pipelines and analytical workflows to support translational research in critical illness.
 
+## Professional Experience
+* **Incoming Oncology Translational Bioinformatics Intern**, Bristol Myers Squibb, Cambridge, MA (Summer 2026). I will apply deep learning and clinical trial data analysis to multi-modal biomarker discovery, with a focus on interpretable models for oncology treatment response.
+* **Doctorate Research Assistant**, Sepsis and Critical Illness Research Center, University of Florida, Gainesville, FL (2022 - present). I develop reproducible bioinformatics pipelines and statistical workflows for scRNA-seq, RNA-seq, and multi-omics immune profiling in translational critical illness research.
+* **Health Data Specialist**, New Jersey Department of Health, Trenton, NJ (2019 - 2020). I analyzed real-world public health data using GLMs, risk prediction, geospatial visualization, and surveillance reporting for Hepatitis C, HIV, and COVID-19 response.
+
 ## Research Interests
 * **Statistical Skills:** Machine learning, Deep learning, Survival analysis, Longitudinal analysis, Mixed-effects models, Causal inference, GLM, Sample size calculation, RWE
 * **Omics & Bioinformatics:** scRNA-seq, RNA-seq, Multi-omics integration, Immune profiling, Variant calling, CNV detection, Spatial transcriptomics analysis, Copy number variation (CNV) detection, Oncology
 * **Tools and Languages:** R, Python, SAS, SQL, TensorFlow, Linux (HPC environments, Slurm)
 
 ## News
+* **[Apr 2026]** I accepted an incoming Summer 2026 Oncology Translational Bioinformatics Internship at Bristol Myers Squibb in Cambridge, MA, where I will work on AI-powered multi-modal biomarker discovery for oncology treatment response.
 * **[Feb 2026]** I successfully passed my Ph.D. proposal. 🎉
 * **[Sep 2025]** I presented at the [Spatial Transcriptomics for Us (ST4US) Virtual Journal Club](https://cancer.ufl.edu/newsletter/spatial-transcriptomics-for-us-9-5/) hosted by the UF Health Cancer Center's Biostatistics and Computational Biology Shared Resource. My presentation was titled: "Spatial RNA and DNA Sequencing with Slide-seq: Insights into Copy Number Alterations Detection and Cancer."
 * **[Aug 2025]** I presented at the Joint Statistical Meetings (JSM) in Nashville, TN. My talk was titled: "CN-RNN: a Supervised Learning Framework for Copy Number Variation Detection with Sequencing Data".

@@ -14,9 +14,14 @@ My research focuses on statistical methodology and deep learning for genetics, w
 I am also a Doctorate Research Assistant at the Sepsis and Critical Illness Research Center at the University of Florida, where I build reproducible bioinformatics pipelines and analytical workflows to support translational research in critical illness.
 
 ## Professional Experience
-* **Incoming Oncology Translational Bioinformatics Intern**, Bristol Myers Squibb, Cambridge, MA (Summer 2026). I will apply deep learning and clinical trial data analysis to multi-modal biomarker discovery, with a focus on interpretable models for oncology treatment response.
-* **Doctorate Research Assistant**, Sepsis and Critical Illness Research Center, University of Florida, Gainesville, FL (2022 - present). I develop reproducible bioinformatics pipelines and statistical workflows for scRNA-seq, RNA-seq, and multi-omics immune profiling in translational critical illness research.
-* **Health Data Specialist**, New Jersey Department of Health, Trenton, NJ (2019 - 2020). I analyzed real-world public health data using GLMs, risk prediction, geospatial visualization, and surveillance reporting for Hepatitis C, HIV, and COVID-19 response.
+<dl class="detail-list">
+  <dt>06/2026-08/2026</dt>
+  <dd><strong>Incoming Oncology Translational Bioinformatics Intern</strong>, Bristol Myers Squibb, Cambridge, MA. I will apply deep learning and clinical trial data analysis to multi-modal biomarker discovery, with a focus on interpretable models for oncology treatment response.</dd>
+  <dt>08/2022-present</dt>
+  <dd><strong>Doctorate Research Assistant</strong>, Sepsis and Critical Illness Research Center, University of Florida, Gainesville, FL. I develop reproducible bioinformatics pipelines and statistical workflows for scRNA-seq, RNA-seq, and multi-omics immune profiling in translational critical illness research.</dd>
+  <dt>06/2019-02/2020</dt>
+  <dd><strong>Health Data Specialist</strong>, New Jersey Department of Health, Trenton, NJ. I analyzed real-world public health data using GLMs, risk prediction, geospatial visualization, and surveillance reporting for Hepatitis C, HIV, and COVID-19 response.</dd>
+</dl>
 
 ## Research Interests
 <dl class="detail-list">
